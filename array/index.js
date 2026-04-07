@@ -46,3 +46,18 @@ let checkpositivevalue =(checkvalue)=>{
 let arr1 = [-1,34,44,-33]
 console.log(arr1.filter(checkpositivevalue))
 
+
+let checkfunc = (check)=>{
+    return check>1
+}
+console.log(arr1.find(checkfunc))
+
+
+
+
+
+// filter
+
+let filtercheck =  (ele = >{
+    return ele >=0
+}
