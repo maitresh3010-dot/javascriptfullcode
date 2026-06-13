@@ -14,10 +14,8 @@
 
 
 // question 4
-
-// var name = prompt ("enter your name")
-
-// alert(name)
+var name = prompt ("enter your name")
+alert(name)
 
 
 //   question 5  
