@@ -4,7 +4,7 @@ console.log(arr[1])
 arr.push(4,5)
 console.log(arr.length)
 
-
+console.log("hello it me maitresh ")
 
 arr.push(6)
 
