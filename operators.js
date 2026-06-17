@@ -2,7 +2,7 @@
 // document.addEventListener('DOMContentLoaded', function() {
 //     const demo = document.getElementById('demo');
 //     const demo1 = document.getElementById('demo1');
-    
+    etggbhghhhh;
 //     // Basic arithmetic and comparison
 //     let x = 4;
 //     let y = 3;
