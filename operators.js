@@ -294,7 +294,7 @@
 //         area:'kapsi'
 //     }
 // }
-
+let  name = maitresh uke 
 // let {name, age}=obj
 // console.log(name, age)
 
