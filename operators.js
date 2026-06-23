@@ -1,10 +1,10 @@
-// // Operators examples
+wq// // Operators examples
 // document.addEventListener('DOMContentLoaded', function() {
 //     const demo = document.getElementById('demo');
 //     const demo1 = document.getElementById('demo1');
     etggbhghhhh;
 //     // Basic arithmetic and comparison
-//     let x = 4;
+//     let x = 4;etrweqyhjn
 //     let y = 3;
 //     demo.innerHTML += '<h3>Logical Operators:</h3>';
 //     demo.innerHTML += `x > y && x < y: ${x > y && x < y}<br>`;
